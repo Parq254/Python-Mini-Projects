@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ae44c9-179a-439f-a25c-f485ec432aab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculation_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/story.txt" beforeDir="false" afterPath="$PROJECT_DIR$/story.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     "Python.calculation_game.executor": "Run",
     "Python.dice_game.executor": "Run",
     "Python.python_manager.executor": "Run",
+    "Python.python_story.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
