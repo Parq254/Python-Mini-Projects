@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ae44c9-179a-439f-a25c-f485ec432aab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/slot_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_racing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Python.python_story.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.slot_machine.executor": "Run",
+    "Python.turtle_racing.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
