@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ae44c9-179a-439f-a25c-f485ec432aab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/alarm.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alarm_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alarm_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/alarm_clock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "Python.alarm_clock.executor": "Run",
     "Python.calculation_game.executor": "Run",
     "Python.dice_game.executor": "Run",
+    "Python.password_generator.executor": "Run",
     "Python.python_manager.executor": "Run",
     "Python.python_story.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
