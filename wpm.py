@@ -1,4 +1,5 @@
 import curses
+import random
 from curses import wrapper
 import time
 
@@ -21,6 +22,13 @@ def display_text(stdscr, target, current, wpm=0):
             color = curses.color_pair(2)
 
         stdscr.addstr(0, i, char, color)
+
+
+def load_text():
+    with open('textstory.txt', 'r') as f:
+        lines = f.readlines()
+        return random.choice(lines).strip()
+
 
 def wpm_test(stdscr):
     target_text = 'Hello world this is some text for the app'
