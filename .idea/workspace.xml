@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ae44c9-179a-439f-a25c-f485ec432aab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/youtube_downloader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
     &quot;Python.alarm_clock.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculation_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.dice_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mastermind.executor&quot;: &quot;Run&quot;,
     &quot;Python.nba_scores.executor&quot;: &quot;Run&quot;,
     &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
     &quot;Python.path_finder.executor&quot;: &quot;Run&quot;,
