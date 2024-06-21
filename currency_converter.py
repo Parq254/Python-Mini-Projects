@@ -10,8 +10,23 @@ printer = PrettyPrinter()
 def get_currencies():
     endpoint = f'/v3/currencies?apikey={API_KEY}'
     url = BASE_URL + endpoint
-    data = get(url).json()
+    currency_data = get(url).json()['data']
 
-    printer.pprint(data)
+    currency_data = list(currency_data.items())
+    currency_data.sort()
 
-get_currencies()
+    return currency_data
+
+
+def print_currencies(currencies):
+    for name, currency in currencies:
+        name = currency['CurrencyName']
+        _id = currency['id']
+        symbol = currency.get('currencySymbol', '')
+        print(f'{_id} - {name} - {symbol}')
+
+
+
+currency_data = get_currencies()
+printer.pprint(currency_data)
+
