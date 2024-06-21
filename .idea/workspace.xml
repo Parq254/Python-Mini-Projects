@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ae44c9-179a-439f-a25c-f485ec432aab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/youtube_downloader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/currency_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/nba_scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_downloader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,31 +36,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Number_guesser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Quiz Game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adventure_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.alarm_clock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculation_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dice_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mastermind.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nba_scores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.path_finder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_story.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slot_machine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_racing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wpm.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Flash/Bruno Mars - The Lazy Song (Official Video) ( 128kbps ) - Copy.mp3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Number_guesser.executor": "Run",
+    "Python.Quiz Game.executor": "Run",
+    "Python.adventure_game.executor": "Run",
+    "Python.alarm_clock.executor": "Run",
+    "Python.calculation_game.executor": "Run",
+    "Python.currency_converter.executor": "Run",
+    "Python.dice_game.executor": "Run",
+    "Python.mastermind.executor": "Run",
+    "Python.nba_scores.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.path_finder.executor": "Run",
+    "Python.python_manager.executor": "Run",
+    "Python.python_story.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.slot_machine.executor": "Run",
+    "Python.turtle_racing.executor": "Run",
+    "Python.wpm.executor": "Run",
+    "Python.youtube_downloader.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Flash/Bruno Mars - The Lazy Song (Official Video) ( 128kbps ) - Copy.mp3"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\OneDrive\Desktop\Python Mini Projects" />

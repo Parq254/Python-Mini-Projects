@@ -1,11 +1,11 @@
-from pytube import Youtube
+from pytube import YouTube
 import tkinter as tk
 from tkinter import filedialog
 
 
 def download_video(url, save_path):
     try:
-        yt = Youtube(url)
+        yt = YouTube(url)
         streams = yt.streams.filter(progressive=True, file_extension='mp4')
         highest_res_stream = streams.get_highest_resolution()
         highest_res_stream.download(output_path=save_path)
@@ -23,7 +23,7 @@ def open_file_dialogue():
     return folder
 
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     root = tk.Tk()
     root.withdraw()
 
