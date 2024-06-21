@@ -10,23 +10,31 @@ printer = PrettyPrinter()
 def get_currencies():
     endpoint = f'/v3/currencies?apikey={API_KEY}'
     url = BASE_URL + endpoint
-    currency_data = get(url).json()['data']
+    _data = get(url).json()['data']
 
-    currency_data = list(currency_data.items())
-    currency_data.sort()
+    _data = list(_data.items())
+    _data.sort()
 
-    return currency_data
+    return _data
 
 
 def print_currencies(currencies):
     for name, currency in currencies:
-        name = currency['CurrencyName']
-        _id = currency['id']
-        symbol = currency.get('currencySymbol', '')
-        print(f'{_id} - {name} - {symbol}')
+        name = currency['name']
+        symbol = currency['symbol']
+        print(f'{name} - {symbol}')
 
 
+def exchange_rate(code1, code2):
+    endpoint = f"https://api.currencyapi.com/v3/convert?value=12 -H apikey:cur_live_vAsg8euOYay1p0iMST2aE9mv1WtQNFDaLLpH3nYv "
 
-currency_data = get_currencies()
-printer.pprint(currency_data)
+    url = BASE_URL + endpoint
+    response = get(url)
 
+    _data = response.json()
+    printer.pprint(_data)
+
+
+# _data = get_currencies()
+# print_currencies(_data)
+exchange_rate('XRP', 'ADA')
