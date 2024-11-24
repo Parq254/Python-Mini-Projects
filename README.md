@@ -6,7 +6,7 @@ This repository is a collection of fun and engaging Python projects designed to 
 
 Before diving in, make sure you have the following:
 
-Python: Download and install Python from the official website:[Python Download] (https://www.python.org/downloads/)
+Python: Download and install Python from the official website:[Python Download](https://www.python.org/downloads/)
 IDE: Use an Integrated Development Environment like Visual Studio Code or a simple text editor to write your code.
 What's Here?
 
@@ -16,16 +16,14 @@ Hello World! (Warm-up)
 
 This classic program introduces you to basic syntax and printing to the console.
 
-Guessing Game
+- Guessing Game
 
 Challenge yourself by creating a program that generates a random number and has the user guess it within a limited number of tries.
-Mad Libs
 
-Get creative with user input and string manipulation by building a fun story template with blanks that users fill in with their own words.
-Area and Perimeter Calculator
+- Slot Machine
+Ever wondered how slot machines work?Well here you will find a sample code showing how they do work and from it you can build a larger concept.
 
-Develop a program that calculates the area and perimeter of shapes (rectangle or circle) based on user-provided dimensions.
-Rock, Paper, Scissors Game
+- Rock, Paper, Scissors Game
 
 Take your skills to the next level by creating a classic game where you play against the computer. This project will involve conditional statements and random number generation.
 Challenge Yourself!
