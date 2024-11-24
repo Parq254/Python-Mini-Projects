@@ -38,4 +38,5 @@ Additional Resources
 [Learn Python](https://www.learnpython.org/)
 [w3 schools](https://www.w3schools.com/python/)
 [Data Camp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
 Have fun coding!
