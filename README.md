@@ -1,8 +1,8 @@
-##Beginner Python Projects
+# Beginner Python Projects
 
 This repository is a collection of fun and engaging Python projects designed to help you learn the basics and build your coding skills! Whether you're a complete beginner or looking for a refresher, these projects will guide you through core Python concepts in a practical way.
 
-##Getting Started
+## Getting Started
 
 Before diving in, make sure you have the following:
 
@@ -15,6 +15,7 @@ This repository contains a variety of beginner-friendly Python projects, each on
 Hello World! (Warm-up)
 
 This classic program introduces you to basic syntax and printing to the console.
+
 Guessing Game
 
 Challenge yourself by creating a program that generates a random number and has the user guess it within a limited number of tries.
