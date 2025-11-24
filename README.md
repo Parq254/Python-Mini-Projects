@@ -40,12 +40,4 @@ Additional Resources
 [Data Camp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 Have fun coding!
-graph LR
-    A[User Question] --> B(Embedding Model)
-    B --> C{Vector Database}
-    D[PDF Textbook] --> E(Chunking)
-    E --> C
-    C -->|Retrieve Top 5 Chunks| F[Context Window]
-    F --> G[Gemini 1.5 Flash]
-    G -->|Grounded Answer| H[Student]
-    style G fill:#f9f,stroke:#333,stroke-width:2px
+
